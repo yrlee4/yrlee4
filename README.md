@@ -1,4 +1,4 @@
-# ✨ 이유림 Yurim Lee
+# 이유림 Yurim Lee
 
 프론트엔드 엔지니어 
 
