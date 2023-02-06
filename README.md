@@ -3,11 +3,6 @@
 프론트엔드 엔지니어 
 
 
-## 😄 Profile
-
-- 1998.04.04.
-- 이화여자대학교 컴퓨터공학과 재학 중(2018.03.~)
-
 ## 💬 Contact
 
 | Github | https://github.com/yrlee4 |
