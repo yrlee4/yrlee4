@@ -6,7 +6,8 @@
 ## 💬 Contact
 
 | Github | https://github.com/yrlee4 |
-| e-mail | |
+| --- | --- |
+| e-mail | 44em.lee@gmail.com |
 
 ### 🌱 Stack
 
